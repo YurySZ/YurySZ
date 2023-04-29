@@ -1,4 +1,4 @@
-## Hola soy Yury, un Programador Front-End!
+## Hola soy Yury
 
 ![YurySZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=YurySZ&show_icons=true&theme=prussian)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YurySZ&layout=compact&theme=prussian)](https://github.com/YurySZ/github-readme-stats)
